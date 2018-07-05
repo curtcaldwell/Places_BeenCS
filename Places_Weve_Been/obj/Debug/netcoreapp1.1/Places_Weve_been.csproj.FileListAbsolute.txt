@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/bin/Debug/netcoreapp1.1/Places_Weve_been.deps.json
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/bin/Debug/netcoreapp1.1/Places_Weve_been.runtimeconfig.json
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/bin/Debug/netcoreapp1.1/Places_Weve_been.runtimeconfig.dev.json
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/obj/Debug/netcoreapp1.1/Places_Weve_been.AssemblyInfo.cs
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/bin/Debug/netcoreapp1.1/Places_Weve_been.dll
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/bin/Debug/netcoreapp1.1/Places_Weve_been.pdb
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/obj/Debug/netcoreapp1.1/Places_Weve_been.dll
+/Users/Guest/Desktop/Places_Weve_been.Solution/Places_Weve_been/obj/Debug/netcoreapp1.1/Places_Weve_been.pdb

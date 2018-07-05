@@ -1,0 +1,6 @@
+<h1>Cities weve been to</h1>
+<ul>
+  @foreach (var place in @Model)
+  {<li>@place.GetCity() -- @place.GetYear() </li>}
+</ul>
+<p><a href="/city/add">add another city</a></p>
