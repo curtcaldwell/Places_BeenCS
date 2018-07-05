@@ -16,9 +16,9 @@ namespace Place.Controllers
       return View();
     }
     [HttpPost("/city")]
-    public ActionResult Create(string city, int year)
+    public ActionResult Create(string city, int year, string monument, int id)
     {
-      PlaceBeen newPlaceBeen = new PlaceBeen(city, year);
+      PlaceBeen newPlaceBeen = new PlaceBeen(city, year, monument, id);
       newPlaceBeen.Save();
       return View("Cities", PlaceBeen.GetAll());
     }
